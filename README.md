@@ -1,7 +1,7 @@
 # <p align="center">✨ Lê Nhã Phương - Personal GitHub Profile ✨</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft-shadow&color=gradient&height=220&section=header&text=Lê%20Nhã%20Phương&fontSize=70&animation=twinkle&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Lê%20Nhã%20Phương&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=58a6ff" width="100%" />
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 ## 💻 Ngôn ngữ & công nghệ
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,js,html,css,nodejs,express,docker,git,github,vscode,postman" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,js,html,css,nodejs,docker,git,github,vscode,postman" alt="Tech stack" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 <p align="center">
   <a href="https://github.com/nhaphuong22/MockAI-Interview"><img src="https://img.shields.io/badge/MockAI--Interview-React%20%2B%20Node.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="MockAI Interview" /></a>
   <a href="https://github.com/nhaphuong22/Trash"><img src="https://img.shields.io/badge/Trash-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Trash Project" /></a>
-  <a href="https://github.com/huytqDE200146/Japanese-web"><img src="https://img.shields.io/badge/Japanese-web-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Japanese Learning Website" /></a>
+  <a href="https://github.com/huytqDE200146/Japanese-web"><img src="https://img.shields.io/badge/Japanese--web-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Japanese Learning Website" /></a>
 </p>
 
 <p align="center">
@@ -63,11 +63,11 @@
 
 <p align="center">
   <a href="https://github.com/nhaphuong22" title="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=nhaphuong22&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
+    <img src="https://github-readme-stats-nhaphuong22.vercel.app/api?username=nhaphuong22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" height="180" />
   </a>
   &nbsp;
   <a href="https://github.com/nhaphuong22" title="Top Languages">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhaphuong22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+    <img src="https://github-readme-stats-nhaphuong22.vercel.app/api/top-langs/?username=nhaphuong22&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" height="180" />
   </a>
 </p>
 
