@@ -30,7 +30,7 @@
 ## 💻 Ngôn ngữ & công nghệ
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,js,html,css,nodejs,express,mongodb,mysql,docker,git,github,vscode,postman" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,js,html,css,nodejs,express,docker,git,github,vscode,postman" alt="Tech stack" />
 </p>
 
 ---
