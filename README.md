@@ -63,11 +63,11 @@
 
 <p align="center">
   <a href="https://github.com/nhaphuong22" title="GitHub Stats">
-    <img src="https://github-readme-stats-nhaphuong22.vercel.app/api?username=nhaphuong22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" height="180" />
+    <img src="https://github-readme-stats.shion.dev/api?username=nhaphuong22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" height="180" />
   </a>
   &nbsp;
   <a href="https://github.com/nhaphuong22" title="Top Languages">
-    <img src="https://github-readme-stats-nhaphuong22.vercel.app/api/top-langs/?username=nhaphuong22&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" height="180" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nhaphuong22&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" height="180" />
   </a>
 </p>
 
